@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity, Blockchain**
 
-- 💬 Ask me about **blockchain**
+- 💬 Ask me about **backend**
 
 - 📫 How to reach me **vijayvas1973@gmail.com**
 
